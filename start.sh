@@ -1,4 +1,3 @@
 #!/bin/bash
 python3 transcript_api.py
 
-chmod +x start.sh
